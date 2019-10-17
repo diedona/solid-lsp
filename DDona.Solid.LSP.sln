@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDona.Solid.LSP.Model", "DDona.Solid.LSP.Model\DDona.Solid.LSP.Model.csproj", "{6277B044-EC87-4D82-B647-4D32E4C36B50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDona.Solid.LSP.AppConsole", "DDona.Solid.LSP.AppConsole\DDona.Solid.LSP.AppConsole.csproj", "{E746A83F-0044-4E7B-AB7C-4891AF5D317D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6277B044-EC87-4D82-B647-4D32E4C36B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6277B044-EC87-4D82-B647-4D32E4C36B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6277B044-EC87-4D82-B647-4D32E4C36B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6277B044-EC87-4D82-B647-4D32E4C36B50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E746A83F-0044-4E7B-AB7C-4891AF5D317D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E746A83F-0044-4E7B-AB7C-4891AF5D317D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E746A83F-0044-4E7B-AB7C-4891AF5D317D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E746A83F-0044-4E7B-AB7C-4891AF5D317D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2E3D2C2-BCB3-4A44-9C4B-625FC7A31A8E}
+	EndGlobalSection
+EndGlobal
